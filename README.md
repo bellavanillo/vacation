@@ -14,7 +14,7 @@ _This webpage demonstrates the use of git and html._
 * _Open a simple HTTP server in the top level of the cloned directory. For a mac, run the following command in your terminal:_
 * _cd Vacation_
 * _atom ._
-* _Then open your web browser of choice to my-favorite-things.html_
+* _Then open your web browser of choice to bootstrap_example.html_
 
 ## Known Bugs
 
